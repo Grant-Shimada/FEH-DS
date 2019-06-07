@@ -1,0 +1,14 @@
+body {
+	margin: 0%;
+	background-color: black;
+}
+
+#Logo {
+	width: 10%;
+	height: 10%;
+}	
+
+#LogoText {
+	margin: auto;
+	color: white;
+}
